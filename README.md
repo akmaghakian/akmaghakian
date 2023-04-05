@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**akmaghakian/akmaghakian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alex Maghakian, and I am based in London, UK 🇬🇧
 
-Here are some ideas to get you started:
+I Speak: English 🇬🇧, Spanish 🇪🇸, German 🇩🇪 and French 🇫🇷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I come from a finance, operations and compliance professional background and am now a student at a Data Science and Python Software Engineering bootcamp.
+
+🔭 I am currently working on a website that interconnects different services.
+
+🐍 I am currently learning Python, C++ and SQL, while working on my portfolio.
+
+💬 Ask me about anything you need!
+
+📫 Where to find me: alexmaghakian@gmail.com or on LinkedIn
