@@ -8,7 +8,7 @@ I come from a finance, operations and compliance professional background and am 
 
 🔭 I am currently working on a website that interconnects different services.
 
-🐍 I am currently learning Python, C++ and SQL, while working on my portfolio.
+🐍 I am currently learning Python, C#, C++ and SQL, while working on my portfolio.
 
 💬 Ask me about anything you need!
 
