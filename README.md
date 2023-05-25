@@ -12,4 +12,4 @@ I come from a finance, operations and compliance professional background and am 
 
 💬 Ask me about anything you need!
 
-📫 Where to find me: alexmaghakian@gmail.com or on LinkedIn
+📫 Where to find me: alexmaghakian@gmail.com or on LinkedIn https://www.linkedin.com/in/akmaghakian/
